@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+mlflow
+kafka-python
+pyspark==3.5.1
+fastapi
+uvicorn
+joblib
+matplotlib
+seaborn
+imbalanced-learn
+delta-spark==3.2.0
+python-dotenv
